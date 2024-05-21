@@ -1,4 +1,3 @@
-#Antonio Zangla e Elia Zanotti 5G 04/03/2024
 import time
 import datetime
 import json
